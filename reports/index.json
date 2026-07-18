@@ -1,0 +1,30 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": true,
+  "glassmorphic": true,
+  "entries": [
+    {
+      "id": "20260717-234440-akck",
+      "title": "Likeacheesecake",
+      "commanders": [
+        "Likeacheesecake"
+      ],
+      "dateStart": "2026-07-18T04:44:40.000Z",
+      "dateEnd": "2026-07-18T04:59:09.000Z",
+      "dateLabel": "7/17/2026, 11:44:40 PM - 7/17/2026, 11:59:09 PM",
+      "url": "https://ImAeru.github.io/WvWLogs/?report=20260717-234440-akck",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 33
+      }
+    }
+  ]
+}
