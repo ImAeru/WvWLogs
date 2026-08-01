@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260730-204744-98sr",
+      "title": "Öptussy",
+      "commanders": [
+        "Öptussy"
+      ],
+      "dateStart": "2026-07-31T01:47:44.000Z",
+      "dateEnd": "2026-07-31T02:28:28.000Z",
+      "dateLabel": "7/30/2026, 8:47:44 PM - 7/30/2026, 9:28:28 PM",
+      "url": "https://ImAeru.github.io/WvWLogs/?report=20260730-204744-98sr",
+      "summary": {
+        "borderlandsPct": 0.3870967741935484,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260725-201454-ccyf",
       "title": "Get On Me",
       "commanders": [
