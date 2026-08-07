@@ -4,6 +4,30 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260806-213611-cpoy",
+      "title": "Illusive Heart, Öptussy",
+      "commanders": [
+        "Illusive Heart",
+        "Öptussy"
+      ],
+      "dateStart": "2026-08-07T02:36:11.000Z",
+      "dateEnd": "2026-08-07T03:04:48.000Z",
+      "dateLabel": "8/6/2026, 9:36:11 PM - 8/6/2026, 10:04:48 PM",
+      "url": "https://ImAeru.github.io/WvWLogs/?report=20260806-213611-cpoy",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 42,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260730-204744-98sr",
       "title": "Öptussy",
       "commanders": [
